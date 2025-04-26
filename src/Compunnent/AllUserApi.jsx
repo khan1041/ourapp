@@ -10,7 +10,6 @@ import Mypage from './Mypage'
 import AlluserShow from './AlluserShow'
 import { Link, useParams } from 'react-router-dom';
 import Allsugesteduser from './Allsugesteduser'
-import Suggeted from './suggeted'
 
 function AllUserApi() {
     const dispatch=useDispatch()

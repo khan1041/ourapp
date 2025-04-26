@@ -24,7 +24,7 @@ import { dicrement,remove } from './Redux/PostsSlice'
 import Myallfolowin from './Compunnent/Myallfollowin'
 import MysaveMark from './Compunnent/MysaveMark'
 import Allsugesteduser from './Compunnent/Allsugesteduser'
-import Suggeted from './Compunnent/suggeted'
+import Suggeted from './Compunnent/Suggeted'
 import Showdata from './Compunnent/Showdata'
 function App() {
  

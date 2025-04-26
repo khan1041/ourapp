@@ -26,7 +26,7 @@ function Allsugesteduser({item}) {
 
  const followunfollow=async(id)=>{
     try {
-      const response=await fetch(`http://localhost:8000/app/auth/follow/${id}`,{
+      const response=await fetch(`https://blog-app-gbau.onrender.com/app/auth/follow/${id}`,{
     method:"post",
     headers:{
       Authorization:`Bearer${token}`

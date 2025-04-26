@@ -42,7 +42,7 @@ function SideBar() {
       <div className=' lg:w-36 shadow-md text-black sm:text-black bg-gray-200 sm:bg-white  lg:border-gray-300 lg:border-r  lg:h-full flex  rounded-lg ml-3 pr-6 fixed'>
         <nav className='transform hover:scale-105 transition-transform duration-700 '>
           <div className='flex justify-center items-center'>
-            <div className='text-blue-500 text-2xl'>LOGO</div>
+            <div className='text-blue-500 text-2xl'>LOGO..</div>
 
           </div>
           <div className='mt-6'>
